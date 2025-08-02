@@ -1,0 +1,101 @@
+Tipo de producto;Código SKU;Precio;Disponibilidad;Número de productos vendidos;Ingresos generados;Demografía de los clientes;niveles de existencias;Plazos de entrega;Cantidades de pedido;Tiempos de envío;Transportistas de envío;Gastos de envío;Nombre del proveedor;Ubicación;Plazo de entrega;Volúmenes de producción;Plazo de fabricación;Costos de fabricación;Resultados de la inspección;Tasas de defectos;Modos de transporte;Rutas;Costos
+cuidado del cabello;SKU0;69.80800554;55;802;8661.996792;No binario;58;7;96;4;Portador B;2.956572139;Proveedor 3;Bombay;29;215;29;46.27987924;Pendiente;0.226410361;Camino;Ruta B;187.7520755
+protección de la piel;SKU1;14.84352328;95;736;7460.900065;Femenino;53;30;37;2;Portador A;9.716574771;Proveedor 3;Bombay;23;517;30;33.61676895;Pendiente;4.854068026;Camino;Ruta B;503.0655791
+cuidado del cabello;SKU2;11.31968329;34;8;9577.749626;Desconocido;1;10;88;2;Portador B;8.054479262;Proveedor 1;Bombay;12;971;27;30.68801935;Pendiente;4.580592619;Aire;Ruta C;141.9202818
+protección de la piel;SKU3;61.16334302;68;83;7766.836426;No binario;23;13;59;6;Portador C;1.729568564;Proveedor 5;Calcuta;24;937;18;35.6247414;Fallar;4.746648621;Carril;Ruta A;254.7761592
+protección de la piel;SKU4;4.805496036;26;871;2686.505152;No binario;5;3;56;8;Portador A;3.890547916;Proveedor 1;Delhi;5;414;3;92.0651606;Fallar;3.145579523;Aire;Ruta A;923.4406317
+cuidado del cabello;SKU5;1.699976014;87;147;2828.348746;No binario;90;27;66;3;Portador B;4.444098864;Proveedor 4;Bangalore;10;104;17;56.76647556;Fallar;2.779193512;Camino;Ruta A;235.4612367
+protección de la piel;SKU6;4.078332863;48;65;7823.47656;Masculino;11;15;58;8;Portador C;3.880763303;Proveedor 3;Calcuta;14;314;24;1.08506857;Pendiente;1.000910619;Mar;Ruta A;134.3690969
+productos cosméticos;SKU7;42.95838438;59;426;8496.103813;Femenino;93;17;11;1;Portador B;2.348338784;Proveedor 4;Bangalore;22;564;1;99.4661086;Fallar;0.398177187;Camino;Ruta C;802.0563118
+productos cosméticos;SKU8;68.71759675;78;150;7517.363211;Femenino;5;10;15;7;Portador C;3.404733857;Proveedor 4;Bombay;13;769;8;11.42302714;Pendiente;2.709862691;Mar;Ruta B;505.5571342
+protección de la piel;SKU9;64.01573294;35;980;4971.145988;Desconocido;14;27;83;1;Portador A;7.166645291;Proveedor 2;Chennai;29;963;23;47.95760163;Pendiente;3.844614479;Carril;Ruta B;995.9294615
+protección de la piel;SKU10;15.70779568;11;996;2330.965802;No binario;51;13;80;2;Portador C;8.673211211;Proveedor 5;Calcuta;18;830;5;96.52735279;Paso;1.727313928;Camino;Ruta B;806.1031777
+protección de la piel;SKU11;90.63545998;95;960;6099.944116;Femenino;46;23;60;1;Portador A;4.523943124;Proveedor 2;Calcuta;28;362;11;27.59236309;Pendiente;0.021169821;Aire;Ruta A;126.7230334
+cuidado del cabello;SKU12;71.21338908;41;336;2873.741446;Desconocido;100;30;85;4;Portador A;1.32527401;Proveedor 4;Calcuta;3;563;3;32.32128621;Fallar;2.161253748;Camino;Ruta B;402.9687891
+protección de la piel;SKU13;16.16039332;5;249;4052.738416;Masculino;80;8;48;9;Portador A;9.537283061;Proveedor 5;Bangalore;23;173;10;97.82905011;Pendiente;1.63107423;Camino;Ruta B;547.2410052
+protección de la piel;SKU14;99.17132864;26;562;8653.570926;No binario;54;29;78;5;Portador B;2.039770189;Proveedor 1;Calcuta;25;558;14;5.79143663;Pendiente;0.100682852;Aire;Ruta B;929.23529
+protección de la piel;SKU15;36.98924493;94;469;5442.086785;No binario;9;8;69;7;Portador B;2.422039723;Proveedor 1;Bangalore;14;580;7;97.12128175;Paso;2.264405761;Mar;Ruta B;127.8618
+protección de la piel;SKU16;7.54717211;74;280;6453.797968;Femenino;2;5;78;1;Portador B;4.191324586;Proveedor 1;Bangalore;3;399;21;77.1063425;Paso;1.012563089;Aire;Ruta A;865.5257798
+productos cosméticos;SKU17;81.46253437;82;126;2629.396435;Femenino;45;17;85;9;Portador C;3.585418958;Proveedor 1;Chennai;7;453;16;47.67968037;Fallar;0.102020755;Aire;Ruta C;670.9343908
+cuidado del cabello;SKU18;36.44362777;23;620;9364.673505;Desconocido;10;10;46;8;Portador C;4.339224714;Proveedor 2;Calcuta;18;374;17;27.10798085;Pendiente;2.231939111;Mar;Ruta A;593.4802587
+protección de la piel;SKU19;51.12387009;100;187;2553.495585;Desconocido;48;11;94;3;Portador A;4.742635883;Proveedor 4;Chennai;20;694;16;82.37332059;Fallar;3.646450865;Camino;Ruta C;477.3076311
+protección de la piel;SKU20;96.34107244;22;320;8128.027697;Desconocido;27;12;68;6;Portador A;8.878334651;Proveedor 1;Chennai;29;309;6;65.68625961;Paso;4.231416574;Aire;Ruta B;493.8712153
+productos cosméticos;SKU21;84.89386898;60;601;7087.052696;Desconocido;69;25;7;6;Portador B;6.037883769;Proveedor 5;Chennai;19;791;4;61.73572895;Pendiente;0.018607568;Aire;Ruta C;523.3609147
+cuidado del cabello;SKU22;27.67978089;55;884;2390.807867;Desconocido;71;1;63;10;Portador A;9.567648921;Proveedor 4;Calcuta;22;780;28;50.12083961;Fallar;2.591275473;Carril;Ruta C;205.5719958
+productos cosméticos;SKU23;4.324341186;30;391;8858.367571;Desconocido;84;5;29;7;Portador A;2.924857601;Proveedor 5;Calcuta;11;568;29;98.60995724;Pendiente;1.342291563;Carril;Ruta A;196.3294461
+cuidado del cabello;SKU24;4.156308359;32;209;9049.077861;Masculino;4;26;2;8;Portador C;9.741291689;Proveedor 2;Bangalore;28;447;3;40.3823597;Pendiente;3.691310293;Aire;Ruta A;758.7247726
+cuidado del cabello;SKU25;39.62934399;73;142;2174.777054;Masculino;82;11;52;3;Portador C;2.231073681;Proveedor 4;Calcuta;19;934;23;78.28038312;Pendiente;3.797231217;Camino;Ruta B;458.5359457
+cuidado del cabello;SKU26;97.44694662;9;353;3716.493326;Masculino;59;16;48;4;Portador B;6.507548621;Proveedor 2;Bangalore;26;171;4;15.97222976;Paso;2.119319737;Carril;Ruta A;617.8669165
+productos cosméticos;SKU27;92.55736081;42;352;2686.457224;Desconocido;47;9;62;8;Portador C;7.406750953;Proveedor 5;Bombay;25;291;4;10.52824507;Fallar;2.864667838;Mar;Ruta B;762.4591822
+productos cosméticos;SKU28;2.397274706;12;394;6117.324615;Femenino;48;15;24;4;Portador B;9.898140508;Proveedor 1;Bombay;13;171;7;59.42938181;Fallar;0.815757079;Aire;Ruta A;123.4370275
+productos cosméticos;SKU29;63.44755919;3;253;8318.903195;Femenino;45;5;67;7;Portador B;8.100973145;Proveedor 1;Calcuta;16;329;7;39.29287559;Paso;3.878098937;Camino;Ruta B;764.9353759
+cuidado del cabello;SKU30;8.022859211;10;327;2766.342367;Masculino;60;26;35;7;Portador B;8.954528315;Proveedor 4;Calcuta;27;806;30;51.6348934;Pendiente;0.965394705;Camino;Ruta C;880.0809882
+protección de la piel;SKU31;50.84739305;28;168;9655.135103;Masculino;6;17;44;4;Portador B;2.679660965;Proveedor 3;Chennai;24;461;8;60.25114566;Pendiente;2.989000007;Carril;Ruta C;609.3792066
+protección de la piel;SKU32;79.20993602;43;781;9571.550487;Desconocido;89;13;64;4;Portador C;6.599104901;Proveedor 3;Calcuta;30;737;7;29.69246715;Paso;1.946036119;Camino;Ruta A;761.1739095
+productos cosméticos;SKU33;64.795435;63;616;5149.99835;No binario;4;17;95;9;Portador C;4.858270503;Proveedor 5;Chennai;1;251;23;23.85342751;Fallar;3.541046012;Mar;Ruta A;371.2552955
+protección de la piel;SKU34;37.46759233;96;602;9061.710896;Desconocido;1;26;21;7;Portador A;1.019487571;Proveedor 1;Chennai;4;452;10;10.75427282;Paso;0.646604559;Camino;Ruta B;510.3580004
+productos cosméticos;SKU35;84.95778682;11;449;6541.329345;Femenino;42;27;85;8;Portador C;5.28818999;Proveedor 1;Delhi;3;367;2;58.00478704;Paso;0.541154098;Mar;Ruta C;553.4204712
+protección de la piel;SKU36;9.813002579;34;963;7573.402458;Femenino;18;23;28;3;Portador B;2.107951267;Proveedor 2;Delhi;26;671;19;45.53136424;Fallar;3.805533379;Aire;Ruta C;403.8089742
+protección de la piel;SKU37;23.39984475;5;963;2438.33993;Femenino;25;8;21;9;Portador A;1.532655274;Proveedor 3;Calcuta;24;867;15;34.34327747;Pendiente;2.610288085;Mar;Ruta A;183.932968
+productos cosméticos;SKU38;52.07593068;75;705;9692.31804;No binario;69;1;88;5;Portador B;9.235931437;Proveedor 5;Bombay;10;841;12;5.930693646;Pendiente;0.613326899;Aire;Ruta B;339.6728699
+protección de la piel;SKU39;19.12747727;26;176;1912.465663;Femenino;78;29;34;3;Portador A;5.562503779;Proveedor 2;Calcuta;30;791;6;9.005807429;Fallar;1.451972204;Aire;Ruta B;653.6729946
+protección de la piel;SKU40;80.54142417;97;933;5724.95935;Femenino;90;20;39;8;Portador C;7.22959514;Proveedor 1;Calcuta;18;793;1;88.1794071;Pendiente;4.213269431;Camino;Ruta A;529.808724
+protección de la piel;SKU41;99.11329162;35;556;5521.205259;Femenino;64;19;38;8;Portador B;5.773263744;Proveedor 4;Chennai;18;892;7;95.33206455;Fallar;0.045302262;Mar;Ruta A;275.5243711
+protección de la piel;SKU42;46.52916761;98;155;1839.609426;Femenino;22;27;57;4;Portador C;7.526248327;Proveedor 5;Bangalore;26;179;7;96.42282064;Fallar;4.939255289;Camino;Ruta A;635.6571205
+cuidado del cabello;SKU43;11.74327178;6;598;5737.425599;Desconocido;36;29;85;9;Portador B;3.694021268;Proveedor 5;Bombay;1;206;23;26.27736596;Pendiente;0.372304768;Aire;Ruta A;716.0441198
+productos cosméticos;SKU44;51.35579091;34;919;7152.286049;Femenino;13;19;72;6;Portador C;7.577449657;Proveedor 2;Delhi;7;834;18;22.55410662;Fallar;2.96262632;Carril;Ruta A;610.4532696
+cuidado del cabello;SKU45;33.78413803;1;24;5267.956808;Masculino;93;7;52;6;Portador B;5.215155009;Proveedor 2;Chennai;25;794;25;66.31254444;Paso;3.219604612;Carril;Ruta A;495.305697
+cuidado del cabello;SKU46;27.0822072;75;859;2556.767361;No binario;92;29;6;8;Portador B;4.070955837;Proveedor 3;Chennai;18;870;23;77.32235321;Pendiente;3.648610593;Camino;Ruta B;380.4359371
+protección de la piel;SKU47;95.71213588;93;910;7089.47425;Masculino;4;15;51;9;Portador B;8.978750756;Proveedor 1;Calcuta;10;964;20;19.71299291;Pendiente;0.380573587;Carril;Ruta A;581.6023551
+cuidado del cabello;SKU48;76.03554443;28;29;7397.071005;No binario;30;16;9;3;Portador C;7.095833157;Proveedor 2;Bombay;9;109;18;23.12636358;Fallar;1.698112541;Carril;Ruta B;768.651914
+productos cosméticos;SKU49;78.89791321;19;99;8001.613207;Desconocido;97;24;9;6;Portador C;2.505621033;Proveedor 5;Delhi;28;177;28;14.14781544;Paso;2.825813985;Carril;Ruta A;336.8901685
+productos cosméticos;SKU50;14.20348426;91;633;5910.88539;Femenino;31;23;82;10;Portador A;6.247860915;Proveedor 2;Delhi;20;306;21;45.17875792;Fallar;4.754800805;Carril;Ruta B;496.2486503
+cuidado del cabello;SKU51;26.70076097;61;154;9866.465458;Masculino;100;4;52;1;Portador A;4.783000558;Proveedor 5;Bangalore;18;673;28;14.19032834;Pendiente;1.772951172;Camino;Ruta A;694.9823176
+protección de la piel;SKU52;98.03182966;1;820;9435.762609;Masculino;64;11;11;1;Portador B;8.63105218;Proveedor 1;Bombay;10;727;27;9.166849149;Pendiente;2.122471619;Aire;Ruta C;602.8984988
+protección de la piel;SKU53;30.34147071;93;242;8232.334829;Masculino;96;25;54;3;Portador B;1.013486566;Proveedor 1;Delhi;1;631;17;83.34405899;Pendiente;1.410347576;Aire;Ruta B;750.7378407
+cuidado del cabello;SKU54;31.14624316;11;622;6088.02148;No binario;33;22;61;3;Portador B;4.305103471;Proveedor 1;Calcuta;26;497;29;30.18602338;Paso;2.478771976;Camino;Ruta B;814.0699966
+cuidado del cabello;SKU55;79.85505834;16;701;2925.67517;Masculino;97;11;11;5;Portador A;5.014364955;Proveedor 2;Delhi;27;918;5;30.32354526;Fallar;4.548919659;Mar;Ruta B;323.012928
+protección de la piel;SKU56;20.98638604;90;93;4767.020484;No binario;25;23;83;5;Portador C;1.774429714;Proveedor 1;Bombay;24;826;28;12.83628457;Paso;1.173755495;Aire;Ruta B;832.2108087
+cuidado del cabello;SKU57;49.26320535;65;227;1605.8669;Desconocido;5;18;51;1;Portador B;9.160558535;Proveedor 2;Delhi;21;588;25;67.77962299;Pendiente;2.51117483;Carril;Ruta A;482.1912386
+protección de la piel;SKU58;59.84156138;81;896;2021.14981;No binario;10;5;44;7;Portador A;4.938438565;Proveedor 3;Delhi;18;396;7;65.04741509;Fallar;1.73037472;Camino;Ruta B;110.3643352
+productos cosméticos;SKU59;63.82839835;30;484;1061.618523;No binario;100;16;26;7;Portador B;7.293722597;Proveedor 1;Calcuta;11;176;4;1.900762244;Fallar;0.447194015;Aire;Ruta A;312.5742736
+protección de la piel;SKU60;17.02802792;16;380;8864.08435;Femenino;41;27;72;8;Portador C;4.381368158;Proveedor 4;Bombay;29;929;24;87.21305782;Fallar;2.853090617;Carril;Ruta A;430.169097
+cuidado del cabello;SKU61;52.0287499;23;117;6885.589351;Desconocido;32;23;36;7;Portador C;9.030340423;Proveedor 4;Calcuta;14;480;12;78.70239397;Fallar;4.367470538;Aire;Ruta A;164.3665282
+productos cosméticos;SKU62;72.79635396;89;270;3899.746834;Desconocido;86;2;40;7;Portador C;7.291701389;Proveedor 2;Bombay;13;751;14;21.04864273;Paso;1.874001404;Mar;Ruta C;320.8465158
+protección de la piel;SKU63;13.01737679;55;246;4256.949141;No binario;54;19;10;4;Portador A;2.457933528;Proveedor 3;Bangalore;18;736;10;20.07500398;Pendiente;3.63284329;Mar;Ruta A;687.2861779
+protección de la piel;SKU64;89.63409561;11;134;8458.730878;Femenino;73;27;75;6;Portador C;4.585353468;Proveedor 1;Delhi;17;328;6;8.693042426;Fallar;0.159486315;Aire;Ruta C;771.2250847
+protección de la piel;SKU65;33.69771721;72;457;8354.579686;Masculino;57;24;54;8;Portador C;6.580541348;Proveedor 5;Calcuta;16;358;21;1.597222743;Fallar;4.911095955;Carril;Ruta C;555.8591037
+protección de la piel;SKU66;26.03486977;52;704;8367.721618;Femenino;13;17;19;8;Portador A;2.216142729;Proveedor 5;Calcuta;24;867;28;42.08443674;Fallar;3.448063288;Camino;Ruta A;393.8433486
+protección de la piel;SKU67;87.75543235;16;513;9473.798033;Desconocido;12;9;71;9;Portador C;9.147811545;Proveedor 1;Bombay;10;198;11;7.057876147;Paso;0.131955444;Mar;Ruta C;169.2718014
+cuidado del cabello;SKU68;37.93181238;29;163;3550.218433;No binario;0;8;58;8;Portador B;1.194251865;Proveedor 2;Bangalore;2;375;18;97.11358156;Fallar;1.983467872;Carril;Ruta A;299.7063031
+protección de la piel;SKU69;54.86552852;62;511;1752.381087;No binario;95;1;27;3;Portador B;9.70528679;Proveedor 4;Calcuta;9;862;7;77.62776581;Pendiente;1.362387989;Aire;Ruta A;207.6632062
+cuidado del cabello;SKU70;47.91454182;90;32;7014.887987;Femenino;10;12;22;4;Portador B;6.315717755;Proveedor 1;Bangalore;22;775;16;11.44078182;Paso;1.830575599;Camino;Ruta C;183.2728987
+productos cosméticos;SKU71;6.381533163;14;637;8180.337085;Femenino;76;2;26;6;Portador A;9.228190317;Proveedor 2;Bangalore;2;258;10;30.66167748;Pendiente;2.078750608;Camino;Ruta A;405.1670679
+productos cosméticos;SKU72;90.20442752;88;478;2633.121981;No binario;57;29;77;9;Portador A;6.59961416;Proveedor 1;Bangalore;21;152;11;55.7604929;Pendiente;3.213329607;Carril;Ruta B;677.9445698
+productos cosméticos;SKU73;83.85101768;41;375;7910.886916;Masculino;17;25;66;5;Portador B;1.512936837;Proveedor 4;Chennai;13;444;4;46.8702388;Fallar;4.620546065;Camino;Ruta A;866.4728001
+cuidado del cabello;SKU74;3.170011414;64;904;5709.945296;Femenino;41;6;1;5;Portador A;5.23765465;Proveedor 4;Delhi;1;919;9;80.58085216;Fallar;0.396612724;Carril;Ruta A;341.5526568
+protección de la piel;SKU75;92.99688423;29;106;1889.07359;No binario;16;20;56;10;Portador C;2.473897761;Proveedor 1;Chennai;25;759;11;48.06478264;Paso;2.030069089;Aire;Ruta C;873.129648
+cuidado del cabello;SKU76;69.10879955;23;241;5328.375984;Masculino;38;1;22;10;Portador A;7.054538337;Proveedor 2;Bangalore;25;985;24;64.3235978;Pendiente;2.180037452;Carril;Ruta A;997.4134501
+cuidado del cabello;SKU77;57.44974296;14;359;2483.760178;Desconocido;96;28;57;4;Portador B;6.780946626;Proveedor 1;Calcuta;26;334;5;42.95244475;Paso;3.055141818;Camino;Ruta B;852.5680989
+cuidado del cabello;SKU78;6.306883176;50;946;1292.458418;Desconocido;5;4;51;5;Portador B;8.467049771;Proveedor 5;Bombay;25;858;21;71.12651472;Pendiente;4.096881332;Mar;Ruta C;323.5922034
+cuidado del cabello;SKU79;57.05703122;56;198;7888.723268;No binario;31;25;20;1;Portador B;6.496325364;Proveedor 3;Bangalore;5;228;12;57.87090292;Pendiente;0.165871627;Aire;Ruta C;351.5042193
+protección de la piel;SKU80;91.12831835;75;872;8651.672683;Desconocido;39;14;41;2;Portador C;2.833184679;Proveedor 3;Chennai;8;202;5;76.96122802;Fallar;2.849662199;Mar;Ruta B;787.7798505
+cuidado del cabello;SKU81;72.81920693;9;774;4384.4134;Desconocido;48;6;8;5;Portador B;4.066277502;Proveedor 3;Delhi;28;698;1;19.78959294;Pendiente;2.547547122;Carril;Ruta B;276.7783359
+protección de la piel;SKU82;17.03493074;13;336;2943.381868;Desconocido;42;19;72;1;Portador A;4.708181874;Proveedor 2;Bombay;6;955;26;4.465278435;Pendiente;4.137877049;Camino;Ruta C;589.9785556
+cuidado del cabello;SKU83;68.91124621;82;663;2411.754632;Desconocido;65;24;7;8;Portador B;4.949839578;Proveedor 1;Bangalore;20;443;5;97.7305938;Fallar;0.773006134;Camino;Ruta A;682.9710182
+cuidado del cabello;SKU84;89.10436729;99;618;2048.2901;Desconocido;73;26;80;10;Portador A;8.381615625;Proveedor 5;Chennai;24;589;22;33.80863651;Paso;4.843456577;Aire;Ruta B;465.457006
+productos cosméticos;SKU85;76.96299442;83;25;8684.613059;Femenino;15;18;66;2;Portador C;8.249168705;Proveedor 5;Chennai;4;211;2;69.92934552;Fallar;1.374429;Camino;Ruta B;842.68683
+protección de la piel;SKU86;19.99817694;18;223;1229.591029;Desconocido;32;14;22;6;Portador B;1.45430531;Proveedor 1;Bombay;4;569;18;74.60897;Paso;2.051512931;Carril;Ruta A;264.2548898
+cuidado del cabello;SKU87;80.41403665;24;79;5133.846701;Masculino;5;7;55;10;Portador A;6.575803798;Proveedor 3;Chennai;27;523;17;28.69699682;Fallar;3.693737788;Mar;Ruta B;879.3592177
+productos cosméticos;SKU88;75.27040698;58;737;9444.742033;Masculino;60;18;85;7;Portador A;3.801253133;Proveedor 2;Bombay;21;953;11;68.18491906;Pendiente;0.722204402;Mar;Ruta A;103.916248
+productos cosméticos;SKU89;97.76008558;10;134;5924.682567;Desconocido;90;1;27;8;Portador B;9.929816245;Proveedor 1;Calcuta;23;370;11;46.60387338;Pendiente;1.907665734;Carril;Ruta B;517.4999739
+protección de la piel;SKU90;13.8819135;56;320;9592.63357;No binario;66;18;96;7;Portador B;7.674430708;Proveedor 3;Bangalore;8;585;8;85.67596334;Paso;1.219382224;Carril;Ruta B;990.0784725
+productos cosméticos;SKU91;62.11196546;90;916;1935.206794;Masculino;98;22;85;7;Portador B;7.471514084;Proveedor 4;Delhi;5;207;28;39.7728825;Pendiente;0.626001858;Carril;Ruta B;996.778315
+productos cosméticos;SKU92;47.71423308;44;276;2100.129755;Masculino;90;25;10;8;Portador B;4.469500026;Proveedor 2;Bombay;4;671;29;62.6126904;Paso;0.333431825;Carril;Ruta B;230.0927825
+cuidado del cabello;SKU93;69.290831;88;114;4531.402134;Desconocido;63;17;66;1;Portador C;7.006432059;Proveedor 4;Chennai;21;824;20;35.63365234;Fallar;4.165781795;Aire;Ruta A;823.5238459
+productos cosméticos;SKU94;3.037688725;97;987;7888.356547;Desconocido;77;26;72;9;Portador B;6.942945942;Proveedor 2;Delhi;12;908;14;60.38737861;Paso;1.463607498;Carril;Ruta B;846.665257
+cuidado del cabello;SKU95;77.90392722;65;672;7386.363944;Desconocido;15;14;26;9;Portador B;8.63033887;Proveedor 4;Bombay;18;450;26;58.89068577;Pendiente;1.21088213;Aire;Ruta A;778.8642414
+productos cosméticos;SKU96;24.42313142;29;324;7698.424766;No binario;67;2;32;3;Portador C;5.352878044;Proveedor 3;Bombay;28;648;28;17.80375633;Pendiente;3.872047681;Camino;Ruta A;188.7421411
+cuidado del cabello;SKU97;3.526111259;56;62;4370.91658;Masculino;46;19;4;9;Portador A;7.904845611;Proveedor 4;Bombay;10;535;13;65.76515593;Fallar;3.376237835;Camino;Ruta A;540.1324229
+protección de la piel;SKU98;19.75460487;43;913;8525.95256;Femenino;53;1;27;7;Portador B;1.409801095;Proveedor 5;Chennai;28;581;9;5.604690864;Pendiente;2.908122169;Carril;Ruta A;882.1988635
+cuidado del cabello;SKU99;68.5178327;17;627;9185.185829;Desconocido;55;8;59;6;Portador B;1.311023756;Proveedor 2;Chennai;29;921;2;38.07289852;Fallar;0.346027291;Carril;Ruta B;210.743009
